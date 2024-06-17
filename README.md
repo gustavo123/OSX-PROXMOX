@@ -1,3 +1,7 @@
+# Fork notes:
+
+Remove modifications on proxmox host ( To be used in my home server environment. )
+
 # OSX-PROXMOX - Run macOS on ANY Computer - AMD & Intel
 
 Install `** FRESH/CLEAN **` Proxmox VE v7.0.XX ~ 8.2.XX - Next, Next & Finish (NNF).
